@@ -111,13 +111,12 @@
     color: black; /* Text color for the hover text */
     padding-top: 8px; /* Adjust the padding as needed */
     padding-bottom: 8px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: auto;
     border: 1px solid #8AC75D; /* Optional border for the hover text */
     background-color: white;
+    width: 85px;
     text-align: center;
     align-items: center;
-    margin-left: 0px;
     font-family: 'Open Sans';
     
 }
